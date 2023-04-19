@@ -1,0 +1,176 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700);
+
+html, body {
+  background-color: #eee;
+}
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'PT Sans',Helvetica,Arial,sans-serif;
+  font-size: 15px;
+}
+
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+.page-header {
+  background-color: #f5f5f5;
+  padding: 10px 20px 10px;
+  margin: -20px -20px 20px;
+}
+
+footer {
+  background-color: #f5f5f5;
+  padding: 20px 20px 20px;
+  margin: 15px -20px -20px;
+  border-top: solid 1px #eee;
+}
+
+.nav-logo img {
+  margin-top: 5px;
+  margin-right: 8px;
+}
+
+/*************************************************
+  * Home page
+  ************************************************/
+
+.home .page-header img {
+  margin-top: 15px;
+  margin-right: 5px;
+  height: 32px;
+  float: left;
+}
+
+.page-header small {
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+.example .source img {
+  margin-top: -5px;
+  max-height: 300px;
+}
+
+.use-it {
+  margin-top: 30px;
+  margin-bottom: 120px;
+  text-align: center;
+}
+
+.use-it a {
+  font-size: 30px;
+}
+
+.copy-this {
+  width: 100%;
+  height: 60px;
+}
+
+/*************************************************
+  * Listify
+  ************************************************/
+
+.listify .record {
+  border-bottom: #eee 1px solid;
+  padding: 5px;
+}
+
+.listify .controls {
+  float: left;
+}
+
+.listify .controls input {
+  width: 250px;
+}
+
+.listify .body {
+  clear: both;
+}
+
+.listify .total {
+  line-height: 30px;
+  font-size: 16px;
+  margin-left: 280px;
+}
+
+.listify .total .matching {
+  font-weight: bold;
+}
+
+/*************************************************
+  * Embed
+  ************************************************/
+
+body.embed {
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: transparent;
+}
+
+body.embed .container {
+  width: 100%;
+}
+
+/*************************************************
+  * Demo
+  ************************************************/
+
+.booky .record {
+  margin-bottom: 20px;
+  height: 230px;
+  overflow: hidden;
+}
+.booky .record .cover {
+  float: left;
+  position: relative;
+  width: 190px;
+  height: 204px;
+  outline: 3px solid white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+.booky .rhs {
+  margin-left: 210px;
+}
+.booky .record p.description {
+  min-height: 120px;
+  padding-bottom: 18px;
+  overflow: hidden;
+  font-size: 85%;
+}
+.booky .record p.type {
+  color: grey;
+  font-size: 90%;
+}
+
+.booky h2,
+.booky h4 {
+  text-transform: uppercase;
+  font: bold 16px 'PT Sans Narrow', Helvetica, Arial, sans-serif;
+  line-height: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.booky h3 {
+  line-height: 11px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.booky h3 a {
+  text-decoration: underline;
+  font: normal 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #cfb798;
+}
+.booky h3 a:hover,
+.booky h3 a:active {
+  color: #cfb798;
+}
+
