@@ -1,4 +1,4 @@
-# False Data Repository
+# FauxiData 
 
 The False Data Repository is a collection of fabricated data sets for testing and training machine learning models. The repository contains a wide variety of data types and formats, ranging from text to images to structured data.
 
