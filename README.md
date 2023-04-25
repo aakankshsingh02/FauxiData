@@ -32,6 +32,5 @@ When using data from the Fauxidata, it is important to keep in mind that the dat
 ## Technology used
 - CSS
 - HTML
-- JS
-- Google Docs
+- Javascript
 - Google Sheets
