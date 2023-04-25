@@ -20,8 +20,8 @@ The Fauxidata includes data sets generated using a variety of techniques, includ
 
 The data sets are organized by type and format and can be easily downloaded and used in machine learning experiments.
 
-## Link
-https://aakankshsingh02.github.io/FauxiData/
+## Demo
+You can access the demo [here](https://aakankshsingh02.github.io/FauxiData/)
 
 ## Usage
 
