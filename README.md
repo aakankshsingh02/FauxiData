@@ -1,6 +1,6 @@
 # FauxiData 
 
-Welcome to the Fauxidata! This contains various datasets that are intentionally falsified, created for the purpose of testing and evaluating algorithms and models that are designed to detect anomalies or fraud.here we will provide you an emulsive data set of the false data which will appear on our website.
+Welcome to the Fauxidata! fauxidata contains various datasets that are intentionally falsified, created for the purpose of testing and evaluating algorithms and models that are designed to detect anomalies or fraud . Here we will provide you an emulsive data set of the false data which will appear on our website.
 
 ## Purpose
 
@@ -20,9 +20,18 @@ The Fauxidata includes data sets generated using a variety of techniques, includ
 
 The data sets are organized by type and format and can be easily downloaded and used in machine learning experiments.
 
+## Link
+(https://aakankshsingh02.github.io/FauxiData/)
+
 ## Usage
 
 To use the Fauxidata, simply browse the available data sets and download the ones you need. You can then use the data sets in your machine learning experiments as you would any other data set.
 
 When using data from the Fauxidata, it is important to keep in mind that the data is fabricated and not representative of real-world data. As such, it should be used for experimental purposes only.
 
+## Technology used
+- CSS
+- HTML
+- JS
+- Google Docs
+- Google Sheets
